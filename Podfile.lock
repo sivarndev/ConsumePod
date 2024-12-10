@@ -1,0 +1,16 @@
+PODS:
+  - MyAwesomeKit (0.0.24)
+
+DEPENDENCIES:
+  - MyAwesomeKit (~> 0.0.24)
+
+SPEC REPOS:
+  https://github.com/sivarndev/MyAwesomeKitSpecs.git:
+    - MyAwesomeKit
+
+SPEC CHECKSUMS:
+  MyAwesomeKit: 6ec7bffbd1eaba59c90b67e0a7a43d0764723778
+
+PODFILE CHECKSUM: e7a7afb6114455dce7c464e72b2e1abb79943e2e
+
+COCOAPODS: 1.16.2
